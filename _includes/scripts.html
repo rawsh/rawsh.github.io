@@ -2,3 +2,15 @@
 
 {% include analytics.html %}
 {% include /comments-providers/scripts.html %}
+
+<script>
+var downloadingImage = new Image();
+downloadingImage.src = "/assets/images/robert.gif";
+    
+console.log("hi");
+    
+downloadingImage.onload = function(){
+    var hero = document.getElementById('herobackground');
+    hero.style.backgroundImage = "url(" + this.src + ")";
+};
+</script>
