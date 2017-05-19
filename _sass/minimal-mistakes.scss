@@ -7,6 +7,10 @@
 /* Variables */
 @import "minimal-mistakes/variables";
 
+.archive__item:hover .archive__item-teaser {
+    box-shadow: none !important;
+}
+
 /* Mixins and functions */
 @import "minimal-mistakes/vendor/breakpoint/breakpoint";
 @include breakpoint-set("to ems", true);
