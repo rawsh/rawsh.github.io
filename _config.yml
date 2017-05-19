@@ -67,6 +67,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://plus.google.com/+RobertWashbourne"
 
 # Analytics
 analytics:
@@ -82,7 +83,7 @@ author:
   bio              : "I love Computers even more than tacos."
   location         : "Houston"
   email            : "robert@devpy.me"
-  uri              :
+  uri              : "https://www.DevPy.me"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -90,8 +91,8 @@ author:
   facebook         :
   foursquare       :
   github           : "rawsh"
-  google_plus      :
-  keybase          :
+  google_plus      : "+RobertWashbourne"
+  keybase          : "rawsh"
   instagram        :
   lastfm           :
   linkedin         :
