@@ -20,3 +20,15 @@ layout: default
     </section>
   </article>
 </div>
+
+<script>
+var downloadingImage = new Image();
+downloadingImage.src = "/assets/images/robert.gif";
+    
+downloadingImage.onload = function(){
+    var hero = document.getElementById('herobackground');
+    var split = hero.style.backgroundImage.split(',');
+    split[split.length-1] = "url(" + this.src + ")";
+    hero.style.backgroundImage = split.join();
+};
+</script>

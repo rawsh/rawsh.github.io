@@ -11,11 +11,28 @@
     box-shadow: none !important;
 }
 
+.btn.btn--nodejs {
+    background-color: #43853d;
+}
+
+.btn.btn--angular {
+    background-color: #dd0031;
+}
+
+.btn.btn--ghost {
+    background-color: #818385;
+}
+
+.btn.btn--firebase {
+    background-color: #ff8a65;
+}
+
+
 /* Mixins and functions */
 @import "minimal-mistakes/vendor/breakpoint/breakpoint";
 @include breakpoint-set("to ems", true);
 @import "minimal-mistakes/vendor/font-awesome/font-awesome";
-@import "minimal-mistakes/vendor/magnific-popup/magnific-popup"; // Magnific Popup
+//@import "minimal-mistakes/vendor/magnific-popup/magnific-popup"; // Magnific Popup
 @import "minimal-mistakes/vendor/susy/susy";
 @import "minimal-mistakes/mixins";
 

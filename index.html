@@ -3,13 +3,13 @@ title: "Robert Washbourne"
 layout: portfolio
 header:
   overlay_color: "#7b7467"
-  overlay_filter: "0.2"
+  overlay_filter: "0.4"
   overlay_image: /assets/images/robertframe1.gif
   cta_label: "See some of my work"
   cta_url: "https://github.com/mmistakes/minimal-mistakes/"
 excerpt: "Student with a love for programming, web development, computer vision, machine learning, mathematics, fencing, mountain biking, and whatever else strikes his fancy."
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `blah`'
+  - excerpt: '[angular](https://angular.io/){: .btn .btn--angular} [ghost](https://ghost.org/){: .btn .btn--ghost} [node.js](https://nodejs.org){: .btn .btn--nodejs} [firebase](https://firebase.google.com/){: .btn .btn--firebase}'
 feature_row:
   - image_path: assets/images/musicpage.gif
     alt: "Music control with python"
@@ -28,42 +28,32 @@ feature_row:
   - image_path: /assets/images/homeworkapp.png
     alt: "Homework nodejs"
     title: "NodeJS Homework App"
-    excerpt: "Built for a profesor at Texas A&M, this app uses a simple server side config file and checks problems against a sage math cell."
+    excerpt: "Built for a profesor at A&M, this app uses a server side config file and checks problems against a sage math cell."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 feature_row2:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
+  - image_path: /assets/images/startclean.png
+    alt: "start clean"
+    title: "Start Clean New Tab Page"
+    excerpt: 'Chrome extension to manage links, see top visited & chrome apps, and search Google; all on a clean, dark page.'
+    url: "https://startclean.github.io/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 feature_row3:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/chatms.png
     alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
-feature_row4:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
+    title: "Company Discussion Board"
+    excerpt: 'Proof of concept for a construction company based in Arizona. Messages can be linked to form discussions.'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 ---
 
-{% include feature_row id="intro" type="center" %}
-
 {% include feature_row %}
+
+<!--{% include feature_row id="intro" type="center" %}-->
 
 {% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row3" type="right" %}
-
-{% include feature_row id="feature_row4" type="center" %}
