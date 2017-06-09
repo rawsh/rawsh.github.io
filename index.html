@@ -15,21 +15,43 @@ feature_row:
     alt: "Music control with python"
     title: "Music control"
     excerpt: "A socket powered, bottle.py using python webpage to control music. Uses Linux glib to connect to playing services."
-    url: "#test-link"
+    url: "https://github.com/devpytech/musicpage#python-powered-music-controlling-startpage"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/portfolioghost.png
     alt: "portfolio"
     title: "Portfolio work"
     excerpt: "Artist's portfolio using Ghost for codeless content mangement. Uses a seamless grid to show off artwork with snazz."
-    url: "#test-link"
+    url: "https://github.com/rawsh/portfolio#portfolio-work-by-robert-washbourne"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/homeworkapp.png
     alt: "Homework nodejs"
-    title: "NodeJS Homework App"
+    title: "NodeJS homework app"
     excerpt: "Built for a profesor at A&M, this app uses a server side config file and checks problems against a sage math cell."
-    url: "#test-link"
+    url: "https://github.com/rawsh/mathlex#mathlex"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+feature_rowb:
+  - image_path: assets/images/rocks.png
+    alt: "Rocks todo app"
+    title: "Rocks todo app"
+    excerpt: "An app to plan your day quickly and intuitively. Custom lists can be richly edited and shared with the community."
+    url: "https://gist.github.com/rawsh/4b475c31e7043b1c4d9c0bcfdd38c24c#rocks-todo-list-app"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /assets/images/enwash.png
+    alt: "Music portfolio"
+    title: "Music & Video portfolio"
+    excerpt: "Website for a sound and motion designer. Includes a product page and purchase functionality for a sound pack product."
+    url: "https://github.com/enwash/enwash.github.io#music--video-portfolio"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /assets/images/devpy.png
+    alt: "DevPy.me"
+    title: "DevPy.me"
+    excerpt: "Responsive design for my Linux blog. Integrates with several features such as a custom newsletter server."
+    url: "https://github.com/devpytech/theme#devpy-theme"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 feature_row2:
@@ -37,7 +59,7 @@ feature_row2:
     alt: "start clean"
     title: "Start Clean New Tab Page"
     excerpt: 'Chrome extension to manage links, see top visited & chrome apps, and search Google; all on a clean, dark page.'
-    url: "https://startclean.github.io/"
+    url: "https://github.com/startclean/Chrome-Extension#start-clean-new-tab-page"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 feature_row3:
@@ -45,15 +67,18 @@ feature_row3:
     alt: "placeholder image 2"
     title: "Company Discussion Board"
     excerpt: 'Proof of concept for a construction company based in Arizona. Messages can be linked to form discussions.'
-    url: "#test-link"
+    url: "https://github.com/rawsh/chatms#chatms-by-robert-washbourne"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 ---
 
-{% include feature_row %}
+{% include feature_row id="feature_rowb" %}
 
 <!--{% include feature_row id="intro" type="center" %}-->
 
-{% include feature_row id="feature_row2" type="left" %}
-
 {% include feature_row id="feature_row3" type="right" %}
+
+{% include feature_row %}
+
+
+{% include feature_row id="feature_row2" type="left" %}
