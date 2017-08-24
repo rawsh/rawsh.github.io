@@ -1,9 +1,11 @@
 # main links
 main:
+  - title: "Todos"
+    url: https://raw.sh/todoapp
+  - title: "Smart Crop"
+    url: https://raw.sh/smartcrop
   - title: "DevPy.me"
-    url: https://www.devpy.me/
-  #- title: "About"
-#    url: https://rawsh.github.io/about/
+    url: https://www.devpy.me
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
