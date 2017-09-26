@@ -36,6 +36,9 @@
 @import "minimal-mistakes/vendor/susy/susy";
 @import "minimal-mistakes/mixins";
 
+/* my css */
+@import "minimal-mistakes/custom";
+
 /* Core CSS */
 @import "minimal-mistakes/reset";
 @import "minimal-mistakes/base";
