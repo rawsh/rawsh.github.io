@@ -1,10 +1,10 @@
 #c-text, .page__title > h1 {
-    display: block;
-    font: 1em 'Roboto';
-    font-weight: bold;
-    margin: 0 auto;
-    width: 100%;
-    letter-spacing: 4px;
+	display: block;
+	font: 1em 'Roboto';
+	font-weight: bold;
+	margin: 0 auto;
+	width: 100%;
+	letter-spacing: 4px;
 }
 
 .page__title {
@@ -12,12 +12,12 @@
 }
 
 .text-copy {
-    fill: none;
-    stroke: white;
-    stroke-dasharray: 10% 10%;
-    stroke-width: 2px;
-    stroke-dashoffset: 0%;
-    animation: stroke-offset 30s infinite linear;
+	fill: none;
+	stroke: white;
+	stroke-dasharray: 10% 10%;
+	stroke-width: 2px;
+	stroke-dashoffset: 0%;
+	animation: stroke-offset 30s infinite linear;
 }
 
 .text-copy:nth-child(1){
@@ -51,25 +51,25 @@
 
 
 .page__title > h1 {
-    display: none;
-    padding-top: 45px;
-    padding-bottom: 11px;
-    margin: 0 auto;
-    width: 100%;
-    margin-right: -3px;
+	display: none;
+	padding-top: 45px;
+	padding-bottom: 11px;
+	margin: 0 auto;
+	width: 100%;
+	margin-right: -3px;
 }
 
 #herobackground:hover h1 {
-    display: block;
+	display: block;
 }
 
 #herobackground:hover #c-text {
-    display: none;
+	display: none;
 }
 
 .page__hero--overlay {
-    background-color: #181818 !important;
-    background-image: none !important;
+	background-color: #181818 !important;
+	background-image: none !important;
 }
 
 @media (min-width: 37.5em) {
@@ -91,9 +91,17 @@
 }
 
 div.page__hero--overlay .page__title {
-    font-size: 2em;
+	font-size: 2em;
 }
 
 .text-copy {
 	stroke-width: 1px;
+}
+
+.wrapper {
+	padding: 3em 0;
+}
+
+.page__hero--overlay {
+	padding: 0 !important;
 }
