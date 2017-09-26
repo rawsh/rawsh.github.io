@@ -73,13 +73,6 @@
 	display: none;
 }
 
-@media (max-width: 37.5em) {
-	.page__title > h1 {
-		padding-top: 73px;
-		padding-bottom: 20px;
-	}
-}
-
 @media (min-width: 37.5em) {
 	div.page__hero--overlay .page__title {
 	    font-size: 4em !important;
