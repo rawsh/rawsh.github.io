@@ -1,7 +1,7 @@
 #c-text, .page__title > h1 {
 	white-space: nowrap;
 	display: block;
-	font: 1.5em 'Roboto';
+	font: 1em 'Roboto';
 	font-weight: bold;
 	margin: 0 auto;
 	width: 100%;
@@ -13,7 +13,7 @@
 }
 
 .page__title {
-	overflow-x: auto;
+	overflow-x: hidden;
 	text-align: center;
 }
 
