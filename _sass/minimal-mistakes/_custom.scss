@@ -79,9 +79,14 @@
 	.text-copy {
 		stroke-width: 2px;
 	}
+}
+@media (min-width: 80em) {
 	.page__title > h1 {
 		padding-top: 39px;
 		padding-bottom: 17px;
+	}
+	.text-copy {
+		stroke-width: 2.5px;
 	}
 }
 
