@@ -77,16 +77,16 @@
 	    font-size: 4em !important;
 	}
 	.text-copy {
-		stroke-width: 2px;
+		stroke-width: 2px !important;
 	}
 }
 @media (min-width: 80em) {
 	.page__title > h1 {
 		padding-top: 39px;
-		padding-bottom: 17px;
+		padding-bottom: 8px;
 	}
 	.text-copy {
-		stroke-width: 2.5px;
+		stroke-width: 2.5px !important;
 	}
 }
 
