@@ -73,14 +73,14 @@
 }
 
 @media (min-width: 37.5em) {
-	.page__hero--overlay .page__title {
-	    font-size: 4em;
+	div.page__hero--overlay .page__title {
+	    font-size: 4em !important;
 	}
 	.text-copy {
 		stroke-width: 1px;
 	}
 }
 
-.page__hero--overlay .page__title {
+div.page__hero--overlay .page__title {
     font-size: 2em;
 }
