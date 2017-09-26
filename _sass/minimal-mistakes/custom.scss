@@ -1,0 +1,68 @@
+#c-text, .page__title > h1 {
+    display: block;
+    font: 1em 'Roboto';
+    font-weight: bold;
+    margin: 0 auto;
+    width: 100%;
+    letter-spacing: 4px;
+}
+
+.page__title {
+	text-align: center;
+}
+
+.text-copy {
+    fill: none;
+    stroke: white;
+    stroke-dasharray: 10% 10%;
+    stroke-width: 2px;
+    stroke-dashoffset: 0%;
+    animation: stroke-offset 30s infinite linear;
+}
+
+.text-copy:nth-child(1){
+	stroke: #ab4642;
+	animation-delay: -1s;
+}
+
+.text-copy:nth-child(2){
+	stroke: #dc9656;
+	animation-delay: -2s;
+}
+
+.text-copy:nth-child(3){
+	stroke: #f7ca88;
+	animation-delay: -3s;
+}
+
+.text-copy:nth-child(4){
+	stroke: #a1b56c;
+	animation-delay: -4s;
+}
+
+.text-copy:nth-child(5){
+	stroke: #86c1b9;
+	animation-delay: -5s;
+}
+
+@keyframes stroke-offset{
+	100% {stroke-dashoffset: -80%;}
+}
+
+
+.page__title > h1 {
+    display: none;
+    padding-top: 45px;
+    padding-bottom: 11px;
+    margin: 0 auto;
+    width: 100%;
+    margin-right: -2px;
+}
+
+#herobackground:hover h1 {
+    display: block;
+}
+
+#herobackground:hover #c-text {
+	display: none;
+}
