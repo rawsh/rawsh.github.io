@@ -67,11 +67,6 @@
 	display: none;
 }
 
-.page__hero--overlay {
-	background-color: #181818 !important;
-	background-image: none !important;
-}
-
 @media (min-width: 37.5em) {
 	div.page__hero--overlay .page__title {
 	    font-size: 4em !important;
@@ -100,6 +95,11 @@ div.page__hero--overlay .page__title {
 
 .wrapper {
 	padding: 3em 0;
+	background-color: #181818 !important;
+}
+
+.wrapper:hover {
+	background: none !important;
 }
 
 .page__hero--overlay {
