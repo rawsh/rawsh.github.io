@@ -64,5 +64,10 @@
 }
 
 #herobackground:hover #c-text {
-	display: none;
+    display: none;
+}
+
+.page__hero--overlay {
+    background-color: #181818 !important;
+    background-image: none !important;
 }
