@@ -71,3 +71,14 @@
     background-color: #181818 !important;
     background-image: none !important;
 }
+
+@media (min-width: 37.5em) {
+main.css:1
+.page__hero--overlay .page__title {
+    font-size: 4em;
+}
+}
+
+.page__hero--overlay .page__title {
+    font-size: 2em;
+}
