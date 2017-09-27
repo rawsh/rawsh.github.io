@@ -17,7 +17,13 @@ body {
 }
 
 .page__footer {
+	background-color: #181818 !important;
 	margin-top: 0 !important;
+	color: #d8d8d8 !important;
+}
+
+.page__footer .fa {
+    color: #d8d8d8;
 }
 
 .page__title {
