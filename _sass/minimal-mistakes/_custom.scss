@@ -65,6 +65,15 @@
 	margin-right: -3px;
 }
 
+.feature__item > a {
+    color: inherit;
+}
+
+.archive__item-excerpt > p {
+    display: inline-block;
+    text-decoration: none !important;
+}
+
 #herobackground {
 	background-position-y: 45%;
 }
