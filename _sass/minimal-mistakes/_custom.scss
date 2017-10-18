@@ -100,13 +100,22 @@ body {
 	display: none;
 }
 
+
 @media (max-width: 37.5em) {
-	div.page__hero--overlay .page__title {
-	    font-size: 4em;
-	    max-width: 190px;
-	    text-align: center;
-	    margin: auto;
-	}
+    #c-text {
+        display: none;
+    }
+    div.wrapper {
+        background: transparent !important;
+    }
+    .page__title>h1 {
+        display: block;
+    }
+    div.page__hero--overlay .page__title {
+        font-size:4em;
+        text-align: center;
+        margin: auto;
+    }
 }
 
 @media (min-width: 37.5em) {
