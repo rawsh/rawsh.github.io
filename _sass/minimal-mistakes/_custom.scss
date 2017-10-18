@@ -125,6 +125,9 @@ body {
 	.text-copy {
 		stroke-width: 2px !important;
 	}
+	.page__title > h1 {
+		padding-top: 54px;
+	}
 }
 @media (min-width: 80em) {
 	.page__title > h1 {
