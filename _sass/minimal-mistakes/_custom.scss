@@ -102,6 +102,9 @@ body {
 
 
 @media (max-width: 37.5em) {
+    #c-text, .page__title > h1 {
+	    letter-spacing: 2px;
+    }
     #c-text {
         display: none;
     }
