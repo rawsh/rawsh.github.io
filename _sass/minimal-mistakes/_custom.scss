@@ -72,12 +72,9 @@ body {
     background-size: cover;
 }
 
-#herobackground:hover h1 {
-	display: block;
-}
-
-#herobackground:hover #c-text {
-	display: none;
+#herobackground:hover .text, #herobackground:hover .text-copy {
+    fill: white !important;
+    stroke: none;
 }
 
 @media (min-width: 37.5em) {
