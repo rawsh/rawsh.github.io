@@ -17,8 +17,7 @@ body {
 }
 
 .page__title {
-	overflow-x: hidden;
-	text-align: center;
+	overflow: hidden !important;
 }
 
 .text-copy {
