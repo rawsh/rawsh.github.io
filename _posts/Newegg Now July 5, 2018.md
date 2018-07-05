@@ -6,7 +6,8 @@ title: Newegg Now July 5, 2018
 Newegg Now sales list, sorted by discount percentage.
 
 | Name and Link | Sale Price | Original Price | Discount Percent | Promo code |
-| ------------- | --------------- | ------------------- | ---------------- | ---------- || [Klipsch Reference On-Ear II Headphones-White](https://s.devpy.me/2zaezMe) | $49 | $199 | 75% | NENKP6 |
+| ------------- | --------------- | ------------------- | ---------------- | ---------- |
+| [Klipsch Reference On-Ear II Headphones-White](https://s.devpy.me/2zaezMe) | $49 | $199 | 75% | NENKP6 |
 | [Gogroove BlueSYNC EDG Wireless Bluetooth Speaker](https://s.devpy.me/2zbcFLy) | $14 | $49 | 71% | NENGO7 |
 | [TP-LINK RE370K AC1200 Wi-Fi Range Extender with Smart Plug](https://s.devpy.me/2zdBlTp) | $29 | $89 | 67% | NENTP7 |
 | [Cooler Master MA410P RGB CPU Air Cooler, 4 CDC Heatpipes, 120mm RGB MasterFan](https://s.devpy.me/2NoiGaJ) | $19 | $49 | 61% | NENCM3 |
