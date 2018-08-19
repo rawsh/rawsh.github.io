@@ -1,7 +1,9 @@
 ---
-layout: single
 title: neweggnow1
-category: posts
+categories:
+  - test
+tags:
+  - content
 ---
 
 Newegg Now sales list, sorted by discount percentage.
