@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Newegg Now July 5, 2018
+title: neweggnow1
 ---
 
 Newegg Now sales list, sorted by discount percentage.
