@@ -29,8 +29,8 @@ Rates:
 * Simple PC setup (3-4hrs) $50
 * Small PC setup SFF e.g. ncase/dan/s4mini (5-6hrs) $80
 * Custom liquid cooling (non aio) e.g. ek a240g (6-7hrs) $120
-
-Shipping for smaller computers available.
+* For the looks - RGB, custom cables, painted cases (3-4hrs) $50
+* Windows/software setup and optimization $30
 
 Previous builds / examples:
 
