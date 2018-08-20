@@ -6,7 +6,7 @@ permalink: /pc/
 layout: portfolio
 
 feature_row1:
-  - image_path: https://raw.sh/assets/images/inwin.png
+  - image_path: https://raw.sh/assets/images/inwin.jpg
     alt: "esports"
     title: "The tiny console killer - $650"
     excerpt: 'Powered by a Ryzen 2400g APU, this build is smaller than a ps4 & much more powerful. For lighter gaming/productivity @ 1080p'
@@ -18,7 +18,7 @@ feature_row2:
     excerpt: 'A simpler build that favors performance and value over looks/size. Usually ryzen 5/intel i5 overclocked with a gtx 1060+. Used for high settings or high refresh rate 1080p gaming or 1440p gaming. Clean/modest looks.'
     url: "#"
 feature_row3:
-  - image_path: https://raw.sh/assets/images/biggest.png
+  - image_path: https://raw.sh/assets/images/biggest.jpg
     alt: "sexy"
     title: "The sexy one - $1500+"
     excerpt: 'A more expensive, higher end build with custom cables, RGB and possible watercooling. Quiet and performant, this teir of PC looks great and crushes AAA games at 1440p and high refresh rates.'
