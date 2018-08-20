@@ -7,12 +7,9 @@ layout: portfolio
 
 feature_row1:
   - image_path: https://raw.sh/assets/images/optimal_startclean.png
-    alt: "start clean"
-    title: "Start Clean New Tab Page"
-    excerpt: 'Chrome extension to manage links, see top visited & chrome apps, and search Google; all on a clean, dark page.'
-    url: "https://github.com/startclean/Chrome-Extension#start-clean-new-tab-page"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
+    alt: "esports"
+    title: "The tiny console killer build - $650"
+    excerpt: 'Powered by a Ryzen 2400g APU, this build is smaller than a ps4 & much more powerful. For lighter gaming/productivity @ 1080p'
 feature_row2:
   - image_path: https://raw.sh/assets/images/optimal_startclean.png
     alt: "start clean"
@@ -39,7 +36,15 @@ feature_row4:
     btn_class: "btn--inverse"
 ---
 
-PC test
+Custom PCs, Laptop upgrades, eGPU, etc. Budget friendly. 
+
+Rates:
+
+* Simple PC setup (3-4hrs) $50
+* Small PC setup SFF e.g. ncase/dan/s4mini (5-6hrs) $80
+* Custom liquid cooling (non aio) e.g. ek a240g (6-7hrs) $120
+
+Shipping for smaller computers available
 
 {% include feature_row id="feature_row1" type="left" %}
 {% include feature_row id="feature_row2" type="right" %}
