@@ -8,32 +8,18 @@ layout: portfolio
 feature_row1:
   - image_path: https://raw.sh/assets/images/optimal_startclean.png
     alt: "esports"
-    title: "The tiny console killer build - $650"
+    title: "The tiny console killer - $650"
     excerpt: 'Powered by a Ryzen 2400g APU, this build is smaller than a ps4 & much more powerful. For lighter gaming/productivity @ 1080p'
 feature_row2:
   - image_path: https://raw.sh/assets/images/optimal_startclean.png
-    alt: "start clean"
-    title: "Start Clean New Tab Page"
-    excerpt: 'Chrome extension to manage links, see top visited & chrome apps, and search Google; all on a clean, dark page.'
-    url: "https://github.com/startclean/Chrome-Extension#start-clean-new-tab-page"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
+    alt: "midrange"
+    title: "The midrange big boi - $700 to $1200"
+    excerpt: 'A simpler build that favors performance and value over looks/size. Usually ryzen 5/intel i5 overclocked with a gtx 1060+. Used for high settings or high refresh rate 1080p gaming or 1440p gaming. Clean/modest looks.'
 feature_row3:
   - image_path: https://raw.sh/assets/images/optimal_chatms.png
-    alt: "placeholder image 2"
-    title: "Company Discussion Board"
-    excerpt: 'Proof of concept for a construction company based in Arizona. Messages can be linked to form discussions.'
-    url: "https://github.com/rawsh/chatms#chatms-by-robert-washbourne"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
-feature_row4:
-  - image_path: https://raw.sh/assets/images/skytree.png
-    alt: "placeholder image 2"
-    title: "School website for Skytree"
-    excerpt: 'Education website for a small private school hosting summer and winter break classes.'
-    url: "https://www.skytreeacademy.org"
-    btn_label: "See the site"
-    btn_class: "btn--inverse"
+    alt: "sexy"
+    title: "The sexy one - $1500+"
+    excerpt: 'A more expensive, higher end build with custom cables, RGB and possible watercooling. Quiet and performant, this teir of PC looks great and crushes AAA games at 1440p and high refresh rates.'
 ---
 
 Custom PCs, Laptop upgrades, eGPU, etc. Budget friendly. 
