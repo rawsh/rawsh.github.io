@@ -4,6 +4,7 @@ excerpt: "PC building services. Custom computers by Robert Washbourne"
 sitemap: true
 permalink: /pc/
 layout: portfolio
+
 feature_row1:
   - image_path: https://raw.sh/assets/images/optimal_startclean.png
     alt: "start clean"
