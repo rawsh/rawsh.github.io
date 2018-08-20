@@ -6,20 +6,100 @@ permalink: /evans-pc/
 layout: single
 ---
 
-[Core i5-8600K silicon lottery](https://siliconlottery.com/collections/all/products/8600k51g)
-
-[Corsair h150i](https://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338333610&mpre=https%3A%2F%2Fwww.ebay.com%2Fitm%2FCorsair-Hydro-Series-H150i-PRO-RGB-360mm-Radiator-Triple-120mm-ML-Series-PWM%2F292401429964%3Fepid%3D15013248943%26hash%3Ditem44147bbdcc%3Ag%3AjNEAAOSww-BaVM0H)
-
-[Z370 Taichi ATX Motherboard](https://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338333610&mpre=https%3A%2F%2Fwww.ebay.com%2Fitm%2FASRock-Z370-Taichi-LGA-1151-300-Series-Intel-Z370-HDMI-SATA-6Gb-s-USB-3-1-ATX%2F292281507355%3Fepid%3D27007214063%26hash%3Ditem440d55de1b%3Ag%3ALk4AAOSwCV5Z1i9Z)
-
-[2666mhz 4x4gb dominator ram](https://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338333610&mpre=https%3A%2F%2Fwww.ebay.com%2Fitm%2FCORSAIR-DOMINATOR-PLATINUM-16GB-4x4GB-DDR4-2666MHz-C16-Memory-New%2F163207306911%3Fepid%3D215839539%26hash%3Ditem25ffe9de9f%3Ag%3Aeq4AAOSwqQBbbb3B)
-
-[SSD](https://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338333610&mpre=https%3A%2F%2Fwww.ebay.com%2Fitm%2FWD-Black-512GB-Performance-SSD-8-Gb-s-M-2-2280-PCIe-NVMe-Solid-State-Drive-W%2F232391353389%3Fhash%3Ditem361b9aa42d%253Am%253AmWOkN2tC5kCx1JcTTsvwLCg%26LH_BIN%3D1%26LH_ItemCondition%3D1000)
-
-[303 msi dragon case](https://amzn.to/2nULgFc)
-
-[850 g3 850w](https://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338333610&mpre=https%3A%2F%2Fwww.ebay.com%2Fitm%2FEVGA-SuperNOVA-850-G3-850W-80Plus-Gold-Certified-Fully-Modular-Power-Supply%2F381864344070%3Fepid%3D17019367524%26hash%3Ditem58e8e37a06%253Ag%253A48wAAOSwUqJbYpmS%26LH_BIN%3D1%26LH_ItemCondition%3D3)
-
-[Huntsman Elite](https://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338333610&mpre=https%3A%2F%2Fwww.ebay.com%2Fitm%2FRazer-Huntsman-Elite-Wired-Gaming-Opto-Mechanical-Switch-Keyboard-with-Chro%2F202362454295%3Fhash%3Ditem2f1dbe0117%253Ag%253AYmQAAOSwT01bRfGU%26LH_BIN%3D1)
-
-[Samsung CHG7 display QLED](https://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338333610&mpre=https%3A%2F%2Fwww.ebay.com%2Fitm%2FSamsung-CHG7-Series-C27HG70QQN-27-HDR-Curved-QHD-FreeSync-Monitor-Matte%2F202312008371%3Fepid%3D2224319302%26hash%3Ditem2f1abc42b3%253Ag%253AMZ8AAOSwX7Ja99Nk%26LH_BIN%3D1)
+<a href="https://pcpartpicker.com/list/CMT8bX">PCPartPicker part list</a> / <a href="https://pcpartpicker.com/list/CMT8bX/by_merchant/">Price breakdown by merchant</a>
+<table class="pcpp-part-list">
+  <thead>
+    <tr>
+      <th>Type</th>
+      <th>Item</th>
+      <th>Price</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="pcpp-part-list-type">CPU</td>
+      <td class="pcpp-part-list-item"><a href="http://www.microcenter.com/product/5001846/amd-ryzen-7-2700x-with-wraith-prism-cooler,-asrock-x470-taichi-cpu-motherboard-bundle">AMD - Ryzen 7 2700X 3.7GHz 8-Core Processor</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="http://www.microcenter.com/product/5001846/amd-ryzen-7-2700x-with-wraith-prism-cooler,-asrock-x470-taichi-cpu-motherboard-bundle">$323.89 @ micro</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">CPU Cooler</td>
+      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/CVJkcf/thermaltake-floe-riing-rgb-360-tt-premium-edition-423-cfm-liquid-cpu-cooler-cl-w158-pl12sw-a">Thermaltake - Floe Riing RGB 360 TT Premium Edition 42.3 CFM Liquid CPU Cooler</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://pcpartpicker.com/product/CVJkcf/thermaltake-floe-riing-rgb-360-tt-premium-edition-423-cfm-liquid-cpu-cooler-cl-w158-pl12sw-a">$174.04 @ Amazon</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Motherboard</td>
+      <td class="pcpp-part-list-item"><a href="http://www.microcenter.com/product/5001846/amd-ryzen-7-2700x-with-wraith-prism-cooler,-asrock-x470-taichi-cpu-motherboard-bundle">ASRock - X470 Taichi ATX AM4 Motherboard</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="http://www.microcenter.com/product/5001846/amd-ryzen-7-2700x-with-wraith-prism-cooler,-asrock-x470-taichi-cpu-motherboard-bundle">$208.79 @ micro</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Memory</td>
+      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/Myp323/corsair-memory-cmd16gx4m4b3000c15">Corsair - Dominator Platinum 16GB (4 x 4GB) DDR4-3000 Memory</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://pcpartpicker.com/product/Myp323/corsair-memory-cmd16gx4m4b3000c15">$245.65 @ Amazon</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Storage</td>
+      <td class="pcpp-part-list-item"><a href="http://www.microcenter.com/product/471501/960-evo-500gb-mlc-v-nand-pcie-gen-3-x4-nvme-m2-2280-internal-ssd">Samsung 960 evo</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="http://www.microcenter.com/product/471501/960-evo-500gb-mlc-v-nand-pcie-gen-3-x4-nvme-m2-2280-internal-ssd">$150 @ microcenter</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Video Card</td>
+      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/tKMwrH/evga-geforce-gtx-1080-ti-11gb-ftw3-dt-gaming-video-card-11g-p4-6694-kr">EVGA - GeForce GTX 1080 Ti 11GB FTW3 DT GAMING Video Card</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://pcpartpicker.com/product/tKMwrH/evga-geforce-gtx-1080-ti-11gb-ftw3-dt-gaming-video-card-11g-p4-6694-kr">$649.99 @ Amazon</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Case</td>
+      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/zsc48d/inwin-303-msi-dragon-atx-mid-tower-case-303-msi-dragon">Inwin - 303 MSI Dragon ATX Mid Tower Case</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://pcpartpicker.com/product/zsc48d/inwin-303-msi-dragon-atx-mid-tower-case-303-msi-dragon">$150.00 @ Amazon</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Power Supply</td>
+      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/PvDzK8/evga-supernova-g3-850w-80-gold-certified-fully-modular-atx-power-supply-220-g3-0850">EVGA - SuperNOVA G3 850W 80+ Gold Certified Fully-Modular ATX Power Supply</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://pcpartpicker.com/product/PvDzK8/evga-supernova-g3-850w-80-gold-certified-fully-modular-atx-power-supply-220-g3-0850">$112.51 @ Newegg Marketplace</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Monitor</td>
+      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/z6YWGX/samsung-c27hg70-269-2560x1440-144hz-monitor-lc27hg70qqnxza">Samsung - C27HG70 26.9" 2560x1440 144Hz Monitor</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://pcpartpicker.com/product/z6YWGX/samsung-c27hg70-269-2560x1440-144hz-monitor-lc27hg70qqnxza">$459.99 @ Amazon</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Keyboard</td>
+      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/9WjJ7P/razer-huntsman-elite-wired-gaming-keyboard-rz03-01870200-r3u1">Razer - Huntsman Elite Wired Gaming Keyboard</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://pcpartpicker.com/product/9WjJ7P/razer-huntsman-elite-wired-gaming-keyboard-rz03-01870200-r3u1">$199.99 @ Amazon</a>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td class="pcpp-part-list-price-note">Prices include shipping, taxes, rebates, and discounts</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td class="pcpp-part-list-total">Total</td>
+      <td class="pcpp-part-list-total-price">$2684.84</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td class="pcpp-part-list-price-note">Generated by <a href="https://pcpartpicker.com">PCPartPicker</a> 2018-08-20 17:08 EDT-0400</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
