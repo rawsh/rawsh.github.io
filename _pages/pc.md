@@ -13,7 +13,7 @@ feature_row1:
 feature_row2:
   - image_path: https://raw.sh/assets/images/optimal_startclean.png
     alt: "midrange"
-    title: "The midrange big boi - $700 to $1200"
+    title: "Midrange big boi - $700 to $1200"
     excerpt: 'A simpler build that favors performance and value over looks/size. Usually ryzen 5/intel i5 overclocked with a gtx 1060+. Used for high settings or high refresh rate 1080p gaming or 1440p gaming. Clean/modest looks.'
 feature_row3:
   - image_path: https://raw.sh/assets/images/optimal_chatms.png
