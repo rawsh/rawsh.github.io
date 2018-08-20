@@ -25,7 +25,7 @@ feature_row3:
     url: "#"
 ---
 
-E: *[rawashbourne@gmail.com](mailto:rawashbourne@gmail.com)* / S: *rawbobs*
+Email: *[rawashbourne@gmail.com](mailto:rawashbourne@gmail.com)* / Snap: *rawbobs*
 
 Custom PCs, Laptop upgrades, eGPU, etc. Budget friendly. 
 
