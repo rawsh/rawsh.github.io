@@ -44,7 +44,9 @@ Rates:
 * Small PC setup SFF e.g. ncase/dan/s4mini (5-6hrs) $80
 * Custom liquid cooling (non aio) e.g. ek a240g (6-7hrs) $120
 
-Shipping for smaller computers available
+Shipping for smaller computers available.
+
+Previous builds / examples:
 
 {% include feature_row id="feature_row1" type="left" %}
 {% include feature_row id="feature_row2" type="right" %}
