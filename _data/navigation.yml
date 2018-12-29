@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "CSGO Server"
+    url: https://cs.raw.sh/
   - title: "Todos"
     url: https://raw.sh/todoapp/
   - title: "Smart Crop"
