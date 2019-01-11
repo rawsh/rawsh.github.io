@@ -18,7 +18,7 @@ feature_row2:
     excerpt: 'A simpler build that favors performance and value over looks/size. Usually ryzen 5/intel i5 overclocked with a gtx 1060+. Used for high settings or high refresh rate 1080p gaming or 1440p gaming. Clean/modest looks.'
     url: "#"
 feature_row3:
-  - image_path: https://raw.sh/assets/images/bigger.png
+  - image_path: https://raw.sh/assets/images/20181225_155730.jpg
     alt: "sexy"
     title: "The sexy one - $1500+"
     excerpt: 'A more expensive, higher end build with custom cables, RGB and possible watercooling. Quiet and performant, this teir of PC looks great and crushes AAA games at 1440p and high refresh rates.'
