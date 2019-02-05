@@ -2,6 +2,23 @@
 	border: none;
 }
 
+.feature__item--right {
+    padding: 25px;
+    margin: 0;
+    background-color: rgba(240, 255, 240,1);
+}
+
+.feature__item--left {
+    background-color: rgba(237, 234, 224,0.7);
+    padding: 25px;
+    margin: 0;
+}
+
+.feature__item:nth-child(2) {
+    background-color: rgba(245, 245, 220, 0.8);
+    padding: 22px;
+}
+
 body {
     margin-bottom: 100px !important;
 }
