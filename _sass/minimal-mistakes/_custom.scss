@@ -2,6 +2,10 @@
 	border: none;
 }
 
+a:focus {
+    outline: none !important;
+}
+
 .feature__wrapper > div.feature__item--right {
   padding: 25px;
   margin: 0;
