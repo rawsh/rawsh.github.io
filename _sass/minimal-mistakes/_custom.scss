@@ -2,14 +2,14 @@
 	border: none;
 }
 
-.feature__item--right {
+.feature__wrapper > div.feature__item--right {
   padding: 25px;
   margin: 0;
   background-color: rgb(240, 255, 240);
   border-bottom: 1px solid rgba(24, 24, 24, 0.8);
 }
 
-.feature__item--left {
+.feature__wrapper > div.feature__item--left {
   background-color: rgb(237, 234, 224);
   padding: 25px;
   margin: 0;
