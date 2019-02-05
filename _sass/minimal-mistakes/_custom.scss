@@ -3,20 +3,22 @@
 }
 
 .feature__item--right {
-    padding: 25px;
-    margin: 0;
-    background-color: rgba(240, 255, 240,1);
+  padding: 25px;
+  margin: 0;
+  background-color: rgba(240, 255, 240, 1);
+  border-bottom: 1px solid rgba(24, 24, 24, 0.8);
 }
 
 .feature__item--left {
-    background-color: rgba(237, 234, 224,0.7);
-    padding: 25px;
-    margin: 0;
+  background-color: rgba(237, 234, 224, 0.7);
+  padding: 25px;
+  margin: 0;
+  border-bottom: 1px solid rgba(24, 24, 24, 0.8);
 }
 
 .feature__item:nth-child(2) {
-    background-color: rgba(245, 245, 220, 0.8);
-    padding: 22px;
+  background-color: rgba(245, 245, 220, 0.8);
+  padding: 22px;
 }
 
 body {
